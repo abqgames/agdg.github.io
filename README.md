@@ -1,1 +1,1 @@
-# albuquerquegamedevelopersguild.github.io
+# The AGDG Github Pages Static Site 
