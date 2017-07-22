@@ -1,0 +1,184 @@
+body {
+
+	margin: 0;
+	padding: 0;
+	background: #fdfdfd;
+	font-family: sans-serif;
+
+}
+
+header {
+
+	background: #f3f3f3;
+	height: 150px;
+	margin-bottom: 30px;
+}
+
+nav {
+
+	margin: 33px 0 0;
+	padding: 30px;
+	float: right;
+
+}
+
+nav ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+nav ul li {
+
+	float: left;
+
+}
+
+section {
+
+	max-width: 1600px;
+
+}
+
+article	{
+
+	margin: 0 0 30px 3.3%;
+	float: left;
+	background: url(http://placekitten.com/900/480) #c1c1c1;
+	width: 45%;
+	height: 250px;
+}
+
+article.aboutspace {
+
+	background: none;
+
+}
+
+article.aboutspace h2 {
+
+	padding-bottom: 0;
+
+}
+
+article.aboutspace h2 a {
+
+	color: #999;
+	width: 410px;
+	padding-bottom: 0;
+
+}
+
+article.aboutspace h3.ridebottomright {
+
+	text-align: right;
+	color: #999;
+	margin-top: 143px;
+	height: auto;
+	padding: 0;
+
+}
+
+h1 {
+
+	font-size: 39px;
+	margin: 0;
+	padding: 45px 30px 0;
+	color: #999;
+	float: left;
+
+}
+
+h2, h3 {
+
+	font-size: 21px;
+	margin: 0;
+	padding: 15px;
+	color: white;
+
+}
+
+nav ul li a {
+
+	color: #999;
+	text-decoration: none;
+	margin: 0;
+	padding: 15px;
+
+}
+
+article a {
+
+	display: block;
+	height: 250px;
+	text-decoration: none;
+
+}
+
+article span.progress {
+
+	width: 150px;
+	height: 10px;
+	border: 2px solid #fff;
+	float: right;
+	margin: 170px 13px 0 0;
+
+}
+
+bar { display: block; height: 10px; float:left; }
+
+.w20 bar { width: 30px;  }
+.w90 bar { width: 135px; }
+
+#stellarcolor bar { background-color: #ed462F; }
+#skypetscolor bar { background-color: #45b9f8; }
+
+
+.detailedgame { width: 75%; margin: 0 10%; background: #f1f1f1; padding: 20px; height: auto; }
+.detailedgame h2 { margin: 0 0 20px 0; padding: 0; color:  #565656; font-size: 48px; }
+.detailedgame h3 { margin: 40px 0 5px; padding: 0;}
+
+.detailedgame .images { float: right;  }
+.detailedgame .images img { margin-left: 20px; }
+.detailedgame .images div { margin-left: 20px; }
+
+.detailedgame p { font-size: 21px; }
+
+.detailedgame .avatar { border: 1px solid #ababab; background-color: #dedede; display: inline-block; width: 64px; height: 64px; }
+.detailedgame .avatar img { margin: 0; padding: 0; display: inline }
+
+.detailedgame a { height: auto; display: inline; }
+
+
+.about article {
+	background: none;
+}
+
+.about h2 {
+	color: #999;
+}
+
+.about article a {
+	height: 40px;
+	display: inline;
+}
+
+article h2 a {
+	height: auto;
+}
+
+article h3 a.link {
+	color: #999;
+	float: right;
+	margin: 0 0 0 7px;
+	height: auto;
+}
+
+.about img {
+
+	width: 64px;
+	height: 64px;
+
+}
