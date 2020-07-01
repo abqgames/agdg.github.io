@@ -19,7 +19,7 @@
 
 #degreelist.row .col .card .bgimage {
   background-size: cover;
-  padding-top: 233px;
+  padding-top: 0;
 }
 
 #degreelist.row .col .card .bgimage .titlecolorband {
