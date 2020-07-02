@@ -44,7 +44,7 @@
 
 #degreelist.row .col .card a {
   color: #ff651e;
-  transition: .9 ease-in-out;
+  transition: .9s ease-in-out;
 }
 
 #degreelist.row .col .card a:hover {
@@ -58,7 +58,7 @@
 #degreelist.row .col .card a.presenter {
   text-decoration: none;
   float: right;
-  transition: 3.0 ease-in-out;
+  transition: 1.66s ease-in-out;
 }
 
 #degreelist.row .col .card a.presenter:hover {
@@ -70,7 +70,7 @@
 }
 
 #degreelist.row .col .card a.presenter:hover span.atsymbol:hover {
-  transition: 1.5;
+  transition: .66s;
   color: hotpink;
 }
 
@@ -83,7 +83,7 @@
   font-weight: 700;
   padding: 10px 64px;
   text-align: center;
-  transition: .3 ease-in;
+  transition: .3s ease-in;
 }
 
 #degreelist.row .col .card a.button:visited {
